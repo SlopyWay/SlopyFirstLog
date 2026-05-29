@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260528-212308-xs1v",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "dateStart": "2026-05-29T01:23:08.000Z",
+      "dateEnd": "2026-05-29T02:40:29.000Z",
+      "dateLabel": "28/05/2026 21:23:08 - 28/05/2026 22:40:29",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260528-212308-xs1v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 34
+      }
+    }
+  ]
+}
