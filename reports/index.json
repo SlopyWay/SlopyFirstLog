@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260529-224417-ktuu",
+      "title": "Tigereatmapo",
+      "commanders": [
+        "Tigereatmapo"
+      ],
+      "dateStart": "2026-05-30T02:44:17.000Z",
+      "dateEnd": "2026-05-30T04:08:26.000Z",
+      "dateLabel": "29/05/2026 22:44:17 - 30/05/2026 00:08:26",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260529-224417-ktuu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260528-212308-xs1v",
       "title": "Casandra Hunmer",
       "commanders": [
