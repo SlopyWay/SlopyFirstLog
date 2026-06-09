@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-232829-6uzb",
+      "title": "Mamasonthree",
+      "commanders": [
+        "Mamasonthree"
+      ],
+      "dateStart": "2026-06-09T03:28:29.000Z",
+      "dateEnd": "2026-06-09T03:47:42.000Z",
+      "dateLabel": "08/06/2026 23:28:29 - 08/06/2026 23:47:42",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260608-232829-6uzb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260607-235146-1mef",
       "title": "Pretty Humner",
       "commanders": [
