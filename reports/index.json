@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-200235-m9tn",
+      "title": "Vikshoots",
+      "commanders": [
+        "Vikshoots"
+      ],
+      "dateStart": "2026-06-14T00:02:35.000Z",
+      "dateEnd": "2026-06-14T01:56:59.000Z",
+      "dateLabel": "13/06/2026 20:02:35 - 13/06/2026 21:56:59",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260613-200235-m9tn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260612-205102-d1jw",
       "title": "Moar Clapps",
       "commanders": [
