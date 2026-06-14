@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-235952-wcx3",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-06-14T03:59:52.000Z",
+      "dateEnd": "2026-06-14T04:29:19.000Z",
+      "dateLabel": "13/06/2026 23:59:52 - 14/06/2026 00:29:19",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260613-235952-wcx3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 36,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260613-200235-m9tn",
       "title": "Vikshoots",
       "commanders": [
