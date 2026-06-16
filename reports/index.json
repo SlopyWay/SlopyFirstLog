@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-114134-3u0c",
+      "title": "Carvis Onachrono, Virtuous Claps",
+      "commanders": [
+        "Carvis Onachrono",
+        "Virtuous Claps"
+      ],
+      "dateStart": "2026-06-16T15:41:34.000Z",
+      "dateEnd": "2026-06-16T16:42:26.000Z",
+      "dateLabel": "16/06/2026 11:41:34 - 16/06/2026 12:42:26",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260616-114134-3u0c",
+      "summary": {
+        "borderlandsPct": 0.03571428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260613-235952-wcx3",
       "title": "Lumpia Humner",
       "commanders": [
