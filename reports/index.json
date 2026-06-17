@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-205342-aokm",
+      "title": "Adora Pell Gearhart",
+      "commanders": [
+        "Adora Pell Gearhart"
+      ],
+      "dateStart": "2026-06-17T00:53:42.000Z",
+      "dateEnd": "2026-06-17T02:14:17.000Z",
+      "dateLabel": "16/06/2026 20:53:42 - 16/06/2026 22:14:17",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260616-205342-aokm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260616-114134-3u0c",
       "title": "Carvis Onachrono, Virtuous Claps",
       "commanders": [
