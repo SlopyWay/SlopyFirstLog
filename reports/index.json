@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260619-220818-gywm",
+      "title": "Clappy Murdercakes",
+      "commanders": [
+        "Clappy Murdercakes"
+      ],
+      "dateStart": "2026-06-20T02:08:18.000Z",
+      "dateEnd": "2026-06-20T03:17:06.000Z",
+      "dateLabel": "19/06/2026 22:08:18 - 19/06/2026 23:17:06",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260619-220818-gywm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260616-205342-aokm",
       "title": "Adora Pell Gearhart",
       "commanders": [
