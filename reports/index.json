@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-224951-lqr2",
+      "title": "Pain Tràin, Virtuous Claps",
+      "commanders": [
+        "Pain Tràin",
+        "Virtuous Claps"
+      ],
+      "dateStart": "2026-06-21T02:49:51.000Z",
+      "dateEnd": "2026-06-21T03:46:39.000Z",
+      "dateLabel": "20/06/2026 22:49:51 - 20/06/2026 23:46:39",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260620-224951-lqr2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260619-220818-gywm",
       "title": "Clappy Murdercakes",
       "commanders": [
