@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-211115-xi44",
+      "title": "Ineriouse Sly, Morrioragon",
+      "commanders": [
+        "Ineriouse Sly",
+        "Morrioragon"
+      ],
+      "dateStart": "2026-06-22T01:11:15.000Z",
+      "dateEnd": "2026-06-22T02:15:59.000Z",
+      "dateLabel": "21/06/2026 21:11:15 - 21/06/2026 22:15:59",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260621-211115-xi44",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260620-224951-lqr2",
       "title": "Pain Tràin, Virtuous Claps",
       "commanders": [
