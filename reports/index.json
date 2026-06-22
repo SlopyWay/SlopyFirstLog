@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-223014-9ab3",
+      "title": "Lattimus",
+      "commanders": [
+        "Lattimus"
+      ],
+      "dateStart": "2026-06-22T02:30:14.000Z",
+      "dateEnd": "2026-06-22T03:05:01.000Z",
+      "dateLabel": "21/06/2026 22:30:14 - 21/06/2026 23:05:01",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260621-223014-9ab3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260621-211115-xi44",
       "title": "Ineriouse Sly, Morrioragon",
       "commanders": [
