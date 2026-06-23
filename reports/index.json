@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260622-214747-rsmh",
+      "title": "Mamasonthree, Mamasontwo",
+      "commanders": [
+        "Mamasonthree",
+        "Mamasontwo"
+      ],
+      "dateStart": "2026-06-23T01:47:47.000Z",
+      "dateEnd": "2026-06-23T02:33:59.000Z",
+      "dateLabel": "22/06/2026 21:47:47 - 22/06/2026 22:33:59",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260622-214747-rsmh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260621-223014-9ab3",
       "title": "Lattimus",
       "commanders": [
