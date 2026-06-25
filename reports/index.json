@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-211303-t2u2",
+      "title": "Clappy Murdercakes",
+      "commanders": [
+        "Clappy Murdercakes"
+      ],
+      "dateStart": "2026-06-25T01:13:03.000Z",
+      "dateEnd": "2026-06-25T01:54:52.000Z",
+      "dateLabel": "24/06/2026 21:13:03 - 24/06/2026 21:54:52",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260624-211303-t2u2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260624-000121-9yaq",
       "title": "Pretty Humner",
       "commanders": [
