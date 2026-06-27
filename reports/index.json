@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-210907-y2x1",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-06-27T01:09:07.000Z",
+      "dateEnd": "2026-06-27T01:42:32.000Z",
+      "dateLabel": "26/06/2026 21:09:07 - 26/06/2026 21:42:32",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260626-210907-y2x1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 61,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260625-212733-cuxf",
       "title": "Virtuous Claps",
       "commanders": [
