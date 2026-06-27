@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-221346-lraq",
+      "title": "Battle Beast Pain, Clapps Evil Genius",
+      "commanders": [
+        "Battle Beast Pain",
+        "Clapps Evil Genius"
+      ],
+      "dateStart": "2026-06-27T02:13:46.000Z",
+      "dateEnd": "2026-06-27T03:02:31.000Z",
+      "dateLabel": "26/06/2026 22:13:46 - 26/06/2026 23:02:31",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260626-221346-lraq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260626-210907-y2x1",
       "title": "Lumpia Humner",
       "commanders": [
