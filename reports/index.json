@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-202009-krqi",
+      "title": "Vikshoots",
+      "commanders": [
+        "Vikshoots"
+      ],
+      "dateStart": "2026-06-28T00:20:09.000Z",
+      "dateEnd": "2026-06-28T00:39:34.000Z",
+      "dateLabel": "27/06/2026 20:20:09 - 27/06/2026 20:39:34",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260627-202009-krqi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 109,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260626-221346-lraq",
       "title": "Battle Beast Pain, Clapps Evil Genius",
       "commanders": [
