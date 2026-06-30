@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-201311-e47q",
+      "title": "Ehkati, Vikshoots",
+      "commanders": [
+        "Ehkati",
+        "Vikshoots"
+      ],
+      "dateStart": "2026-06-30T00:13:11.000Z",
+      "dateEnd": "2026-06-30T02:12:26.000Z",
+      "dateLabel": "29/06/2026 20:13:11 - 29/06/2026 22:12:26",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260629-201311-e47q",
+      "summary": {
+        "borderlandsPct": 0.045454545454545456,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260628-204407-hwcc",
       "title": "Emo Radee",
       "commanders": [
