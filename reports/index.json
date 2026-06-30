@@ -4,6 +4,37 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-195838-5tar",
+      "title": "Aion Firoth, Ehkati, Naemisis, Vikshoots",
+      "commanders": [
+        "Aion Firoth",
+        "Ehkati",
+        "Naemisis",
+        "Vikshoots"
+      ],
+      "dateStart": "2026-06-29T23:58:38.000Z",
+      "dateEnd": "2026-06-30T01:30:30.000Z",
+      "dateLabel": "29/06/2026 19:58:38 - 29/06/2026 21:30:30",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260629-195838-5tar",
+      "summary": {
+        "borderlandsPct": 0.4,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260629-195838-527n",
       "title": "Aion Firoth, Ehkati, Naemisis, Vikshoots",
       "commanders": [
