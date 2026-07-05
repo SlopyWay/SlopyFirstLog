@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-225900-j6nb",
+      "title": "Pretty Humner, Vikshoots",
+      "commanders": [
+        "Pretty Humner",
+        "Vikshoots"
+      ],
+      "dateStart": "2026-07-05T02:59:00.000Z",
+      "dateEnd": "2026-07-05T03:37:17.000Z",
+      "dateLabel": "04/07/2026 22:59:00 - 04/07/2026 23:37:17",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260704-225900-j6nb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260704-205644-rm38",
       "title": "Pretty Humner",
       "commanders": [
