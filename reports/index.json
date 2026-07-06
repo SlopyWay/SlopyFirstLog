@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-213452-wnvh",
+      "title": "Emo Radee",
+      "commanders": [
+        "Emo Radee"
+      ],
+      "dateStart": "2026-07-06T01:34:52.000Z",
+      "dateEnd": "2026-07-06T02:21:58.000Z",
+      "dateLabel": "05/07/2026 21:34:52 - 05/07/2026 22:21:58",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260705-213452-wnvh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260705-223006-0nsm",
       "title": "Casandra Hunmer",
       "commanders": [
