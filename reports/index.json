@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-223006-0nsm",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "dateStart": "2026-07-06T02:30:06.000Z",
+      "dateEnd": "2026-07-06T02:51:45.000Z",
+      "dateLabel": "05/07/2026 22:30:06 - 05/07/2026 22:51:45",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260705-223006-0nsm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260704-225900-j6nb",
       "title": "Pretty Humner, Vikshoots",
       "commanders": [
