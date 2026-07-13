@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-220141-m5rn",
+      "title": "Emo Radee",
+      "commanders": [
+        "Emo Radee"
+      ],
+      "dateStart": "2026-07-13T02:01:41.000Z",
+      "dateEnd": "2026-07-13T02:34:08.000Z",
+      "dateLabel": "12/07/2026 22:01:41 - 12/07/2026 22:34:08",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260712-220141-m5rn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260709-212839-bpqq",
       "title": "Vikshoots",
       "commanders": [
