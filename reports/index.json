@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-202252-6rbi",
+      "title": "Emo Radee",
+      "commanders": [
+        "Emo Radee"
+      ],
+      "dateStart": "2026-07-20T00:22:52.000Z",
+      "dateEnd": "2026-07-20T01:03:40.000Z",
+      "dateLabel": "19/07/2026 20:22:52 - 19/07/2026 21:03:40",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260719-202252-6rbi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 66,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260712-220141-m5rn",
       "title": "Emo Radee",
       "commanders": [
