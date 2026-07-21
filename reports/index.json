@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-194918-i5wp",
+      "title": "Emo Radee, Rosi The Royal, Slöpy",
+      "commanders": [
+        "Emo Radee",
+        "Rosi The Royal",
+        "Slöpy"
+      ],
+      "dateStart": "2026-07-20T23:49:18.000Z",
+      "dateEnd": "2026-07-21T00:29:38.000Z",
+      "dateLabel": "20/07/2026 19:49:18 - 20/07/2026 20:29:38",
+      "url": "https://SlopyWay.github.io/SlopyFirstLog/?report=20260720-194918-i5wp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 36,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260719-202252-6rbi",
       "title": "Emo Radee",
       "commanders": [
